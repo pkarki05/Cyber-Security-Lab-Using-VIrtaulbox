@@ -79,8 +79,3 @@ This repo currently documents the build process and configuration in full; VM Ma
 - **Document a snapshot strategy.** None of the setup docs mention taking a clean snapshot after initial build — without one, resetting a VM after an attack exercise means a full reinstall instead of a one-click revert.
 - **Add firewall rules documentation** for each VM's host-only adapter — right now "isolated" relies on the host-only network not being bridged, with no additional per-VM firewall hardening documented.
 
-## 👤 Author
-
-**Sagar Bidari**
-CompTIA Security+ CE | Monash University Cybersecurity Bootcamp Graduate
-🌐 [bidarisagar.com](https://bidarisagar.com) | 💼 [LinkedIn](https://linkedin.com/in/sagarbidari)
